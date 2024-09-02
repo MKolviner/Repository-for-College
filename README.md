@@ -1,2 +1,2 @@
 # Repository-for-College
-Projects for college.
+Проекты и работы для колледжа.
